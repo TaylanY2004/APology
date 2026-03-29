@@ -7,22 +7,22 @@ import img5 from "../assets/images/img5.jpg";
 export const story = [
   {
     image: img1,
-    text: "Hiiii Goluuuu, Just wanted to tell you somethingggg...",
+    text: "Hallo Pookie bitte hör mir zu und les alles durch. Erinnerst du dich an diese Bild von unserem ersten Date?",
   },
   {
     image: img2,
-    text: "Do you remember this picture? Our first picture that you took ✨",
+    text: "Dieses lächeln bringt mich noch heite jedes mal zum schmmelzen und ich will nie der Grund dafür sein dass du aufhörst zu lächeln",
   },
   {
     image: img3,
-    text: "Our first trip as a hackathon... 🥺",
+    text: "Jeder einzelne meiner Herzschläge ist nur für dich.",
   },
   {
     image: img4,
-    text: "A day full of enjoyymenttt 😌",
+    text: " In jedem Universum, in jedem Leben würde ich mich immer für dich Entscheiden, Für immer und ewig!",
   },
   {
     image: img5,
-    text: "Yeah, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose US. So maaf kar de goluu ❤️",
+    text: "Ja. manchmal mache ich dumme Sachen die dich traurig machen wie zB heute, aber ICH VERSPRECHE DIR ICH GEBE MEIN BESTES JEDEN MOMENT MIT DIR ZU GENIEßen, FÜR DICH IMMER DA ZUSEIN UND DICH ZU LIEBEN ❤️",
   },
 ];
